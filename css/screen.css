@@ -1,0 +1,22 @@
+/* line 1, ./src/css/screen.sass */
+h1, h2, h3 {
+  color: #333333;
+}
+
+/* line 5, ./src/css/screen.sass */
+section {
+  margin: 25px;
+}
+
+/* line 8, ./src/css/screen.sass */
+#resume {
+  margin: 50px auto 50px auto;
+  background-color: #f8f8f8;
+  border: solid #666666;
+  border-width: 8px 0 2px 0;
+}
+
+/* line 14, ./src/css/screen.sass */
+.job {
+  margin-top: 25px;
+}

@@ -1,0 +1,62 @@
+/* line 1, ./src/css/base.sass */
+body {
+  font-family: Helvetica, Arial, Arial, sans-serif;
+}
+
+/* line 4, ./src/css/base.sass */
+h1 {
+  font-family: Georgia;
+  text-transform: uppercase;
+}
+
+/* line 8, ./src/css/base.sass */
+h2 {
+  font-size: 20px;
+  font-style: italic;
+}
+
+/* line 12, ./src/css/base.sass */
+h3 {
+  border-bottom: 1px solid #aaaaaa;
+  margin-bottom: 20px;
+}
+
+/* line 16, ./src/css/base.sass */
+.metadata {
+  float: right;
+  margin: 0;
+  margin-right: 10px;
+}
+/* line 21, ./src/css/base.sass */
+.metadata dt {
+  color: #bbbbbb;
+}
+/* line 23, ./src/css/base.sass */
+.metadata dd {
+  color: #cccccc;
+}
+
+/* line 26, ./src/css/base.sass */
+.hero-unit {
+  background: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 30px;
+}
+/* line 32, ./src/css/base.sass */
+.hero-unit h1 {
+  font-size: 40px;
+}
+
+/* line 35, ./src/css/base.sass */
+.company {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  border-bottom: solid 1px #cccccc;
+  width: 220px;
+}
+
+/* line 41, ./src/css/base.sass */
+#profile p {
+  font-size: 16px;
+}

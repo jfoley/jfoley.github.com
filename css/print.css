@@ -1,0 +1,19 @@
+/* line 1, ./src/css/print.sass */
+h4 a:link:after, a:visited:after {
+  content: " [" attr(href) "] ";
+}
+
+/* line 4, ./src/css/print.sass */
+section {
+  margin: 0;
+}
+
+/* line 7, ./src/css/print.sass */
+.hero-unit p {
+  line-height: 18px;
+}
+
+/* line 10, ./src/css/print.sass */
+#experience, #projects {
+  margin-top: -15px;
+}
