@@ -57,6 +57,11 @@ h3 {
 }
 
 /* line 41, ./src/css/base.sass */
+.location {
+  font-style: italic;
+}
+
+/* line 44, ./src/css/base.sass */
 #profile p {
   font-size: 16px;
 }
